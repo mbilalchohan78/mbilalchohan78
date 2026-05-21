@@ -219,7 +219,7 @@ AR-powered educational app with **3D interactive models** for immersive learning
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Courses 
 
 <div align="center">
 
