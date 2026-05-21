@@ -40,12 +40,6 @@ current_focus:
   - AI Integration in Apps
   - Flutter Mobile Development
 
-banking_clients:
-  - UBL Bank
-  - Allied Bank
-  - Al Meezan Investment
-  - BHL Bank
-
 education:
   degree: BS Computer Science
   university: Iqra University
@@ -98,7 +92,7 @@ motto: "Write code that works in
 | | |
 |:---|:---|
 | 🏢 **Company** | UHF Solutions Pvt Ltd — Karachi |
-| 💼 **Role** | PHP Backend Developer |
+| 💼 **Role** | Backend Developer(php) |
 | 📅 **Duration** | Nov 2025 – Present |
 | 🏦 **Domain** | Enterprise Banking & CRM Systems |
 
@@ -106,7 +100,7 @@ motto: "Write code that works in
 
 **What I do every day:**
 
-> 🔧 Maintain live banking applications for **UBL, Allied Bank, Al Meezan & BHL Bank** in production environments
+> 🔧 Maintain live banking applications for Bank, in production environments
 
 > 🐛 Debug critical PHP/Laravel backend issues and optimize live MySQL queries under real pressure
 
@@ -114,7 +108,7 @@ motto: "Write code that works in
 
 > 📊 Analyze application logs, resolve root causes, and minimize downtime in high-stakes environments
 
-> 🏦 Delivered on-site support at **UBL Bank Head Office** for critical production incidents
+> 🏦 Delivered on-site support at **UBL Bank Head Office, Bankislami Pakistan Limited ** for critical production incidents
 
 ---
 
